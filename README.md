@@ -33,7 +33,7 @@ This project analyses an online retail dataset spanning 13 months and 38 countri
 
 ---
 
-## 🤖 Models Used
+# Models Used
 
 ### ML Classifiers
 
@@ -97,4 +97,4 @@ This project analyses an online retail dataset spanning 13 months and 38 countri
 # Author
 
 **Pramod K O**  
-[LinkedIn Profile URL:linkedin.com/in/pramod-k-o-775b31306 ] · [GitHub Profile URL]
+[LinkedIn Profile URL:linkedin.com/in/pramod-k-o-775b31306 ] 
